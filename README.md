@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [Projeto Integrador 2](mymoney)Alex Repository
 
-- 👨‍💻 All of my projects are available at ([Alex Repository](https://github.com/AlexxMotta?tab=repositories))
+- 👨‍💻 All of my projects are available at [Alex Repository](https://github.com/AlexxMotta?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
