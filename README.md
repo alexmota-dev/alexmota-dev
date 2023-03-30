@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex Mota</h1>
 <h3 align="center">A developer frontend-backend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **React, Node.js, Laravel**
 
-- 👯 I’m looking to collaborate on [Projeto Integrador 2](mymoney)Alex Repository
+- 👯 I’m looking to collaborate on [Projeto Integrador 2] (mymoney)Alex Repository
 
 - 👨‍💻 All of my projects are available at [Alex Repository](https://github.com/AlexxMotta?tab=repositories)
 
