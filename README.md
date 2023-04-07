@@ -26,5 +26,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="![image](https://user-images.githubusercontent.com/99368230/228909820-69225208-b184-4c26-a5e1-407c7213c8d1.png))" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="![image](https://user-images.githubusercontent.com/99368230/230621103-6521bc96-8be3-4774-b346-1fa365a0ffc6.png)" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.entropywins.wtf/blog/wp-content/uploads/2018/10/php-1.png" alt="php" width="40" height="40"/> </a>
 
