@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Mota</h1>
-<h3 align="center">A developer frontend-backend developer from Brazil</h3>
+<h3 align="center">A aspiring backend developer from Brazil</h3>
 
 - 🌱 I’m currently learning **React, NestJs, Laravel**
 
