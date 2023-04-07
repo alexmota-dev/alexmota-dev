@@ -7,8 +7,8 @@
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
-<a href="https://dev.to/alexxmotta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alex mota" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-mota-05365923a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-mota-05365923a/" height="30" width="40" /></a>
+<a href="https://dev.to/alexxmotta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Meu Dev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alex-mota-05365923a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Meu LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/_alexx_motta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_alexx_motta" height="30" width="40" /></a>
 </p>
 
