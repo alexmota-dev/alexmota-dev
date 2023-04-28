@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu me chamo Alex Mota</h1>
 <h3 align="center">Sou um aspirante a Desenvolvedor Web com foco no Back-end</h3>
 
-- 🌱 Atualmente eu estou estudando **React, NestJs, Laravel**
+- 🌱 Atualmente eu estou estudando **NestJs, Laravel, .NET**
 
 - 👨‍💻 Todos os meus projetos estão disponiveis no meu [Repositorio](https://github.com/AlexxMotta?tab=repositories)
 
