@@ -31,5 +31,9 @@
   ![Snake animation](https://github.com/alexmota-dev/alexmota-dev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=alexmota-dev&repo=alexmota-dev&theme=react)](https://github.com/alexmota-dev/alexmota-dev)
+ 
+</div>
 
 ##
