@@ -1,7 +1,8 @@
-###
+# 👋 Hello world!
 
+### 📌 Briefly:
 
-## Eu sou o Alex Mota
+- I'm a ***Computer Scientist*** in [UFC](https://www.ufc.br/) and Software Developer.
 
  <div>
   <a href="https://github.com/alexmota-dev">
