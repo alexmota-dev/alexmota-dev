@@ -23,9 +23,9 @@
  ##
   
 <div>
-<!--  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href = "mailto:alexmota.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexmota-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn%20&color=2867B2&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/alexmota-dev)
+  [![YouTube](https://img.shields.io/static/v1?label=&message=YouTube%20&color=C4302B&logo=YouTube&style=flat-square&logoColor=white)](https://www.youtube.com/channel/UC8WRG2Ae1v-Y2iDKPTFFJZg)
+
  
 <!--   ![Snake animation](https://github.com/alexmota-dev/alexmota-dev/blob/output/github-contribution-grid-snake.svg) -->
  
