@@ -6,7 +6,7 @@
 
  <div>
   <a href="https://github.com/alexmota-dev">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alexmota-dev&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alexmota-dev&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=issues"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmota-dev&layout=compact&langs_count=10&theme=blue-green"/>
 </div>
 
