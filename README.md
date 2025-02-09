@@ -2,7 +2,7 @@
 
 ### 📌 Briefly:
 
-- I'm a ***Computer Scientist*** in [UFC](https://www.ufc.br/) and Software Developer.
+- I'm a ***Software Development*** in [Fitbank 450]([https://www.ufc.br/](https://fitbank.com.br/)).
 
  <div>
   <a href="https://github.com/alexmota-dev">
