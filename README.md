@@ -2,7 +2,7 @@
 
 ### 📌 Briefly:
 
-- I'm a ***Software Development*** in [Fitbank 450](https://fitbank.com.br/)
+- I'm a ***Software Development***
 
  <div>
   <a href="https://github.com/alexmota-dev">
