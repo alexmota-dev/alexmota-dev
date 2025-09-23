@@ -31,7 +31,10 @@
   [![YouTube](https://img.shields.io/static/v1?label=&message=YouTube%20&color=C4302B&logo=YouTube&style=flat-square&logoColor=white)](https://www.youtube.com/channel/UC8WRG2Ae1v-Y2iDKPTFFJZg)
 
  
-<!--   ![Snake animation](https://github.com/alexmota-dev/alexmota-dev/blob/output/github-contribution-grid-snake.svg) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexmota-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&rank_icon=github" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=JoaoMNZ&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="GitHub Streak" />
+</div>
  
 </div>
 
