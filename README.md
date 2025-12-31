@@ -1,21 +1,4 @@
-# 👋 Hello world!
-
-### 📌 Briefly:
-
-- I'm a ***Software Development***
-
 ## Stats
-
-<div align="center">
-  <!-- Card principal: mostra commits, PRs, issues, etc -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alexmota-dev&show_icons=true&include_all_commits=true&count_private=true&hide=issues&rank_icon=github&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmota-dev&layout=compact&langs_count=10&theme=transparent&hide_border=true" height="170" />
-</div>
-
-<div align="center">
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=alexmota-dev&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" />
-</div>
 
 <!-- Grafico de atividade (commits por dia/semana) -->
 <div align="center">
